@@ -1,3 +1,3 @@
 # GE-IT-Skills-portfolio
-##
-**HELLO**
+## *“Committed to accuracy, integrity, and financial excellence.”*
+### Hello everyone, I am Yang zKeith B. Alcala. I am currently studying at Ateneo de Davao Univeristy. I am taking BS Accountancy as my degree. I hope to pass this degree and the board exam. 
