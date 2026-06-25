@@ -16,6 +16,6 @@ Another project I've worked on is featuring the services that my company has to 
 
 ![Services List](https://github.com/ykalcala/GE-IT-Skills-portfolio/blob/main/Visuals/Promo%20Graphic.png)
 
-The next project that i have worked on is the making of the presentation of a study that I was a part of.
+The next project that i have worked on is the making my own LinkedIn banner.
 
-![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students](https://github.com/ykalcala/GE-IT-Skills-portfolio/blob/main/Docs/AI%20TOOLS%20USAGE%20AND%20PERCEIVED%20LEVEL%20OF%20CRITICAL%20THINKING%20SKILLS%20OF%20SENIOR%20HIGH%20SCHOOL%20STEM%20STUDENTS.pdf)
+![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students](
