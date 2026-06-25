@@ -18,4 +18,10 @@ Another project I've worked on is featuring the services that my company has to 
 
 The next project that i have worked on is the making my own LinkedIn banner.
 
-![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students](
+![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students](https://github.com/ykalcala/GE-IT-Skills-portfolio/blob/0bcbe59a4dd78471fbdd8fbe1d9223da83812c4c/Visuals/LinkedIn%20Banner.png)
+
+
+
+# RCTCO PROMPTS
+
+
