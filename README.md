@@ -14,5 +14,9 @@ This is one of the early projects I've worked on in my own company. Making a pub
 
 Another project I've worked on is featuring the services that my company has to offer.
 
-![Services List]
+![Services List](https://github.com/ykalcala/GE-IT-Skills-portfolio/blob/main/Visuals/Promo%20Graphic.png)
+
+The next project that i have worked on is the making of the presentation of a study that I was a part of.
+
+![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students]
 
