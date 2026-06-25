@@ -10,7 +10,7 @@ The choices behind these projects is to evoke a feeling of calmness. This helps 
 # Projects
 This is one of the early projects I've worked on in my own company. Making a pubmat about a discount on the service we're offering.
 
-![Early Bird Discount PubMat](Visuals/Creative Post.png)
+![Early Bird Discount PubMat](Visuals/Creative-Post.png)
 
 Another project I've worked on is featuring the services that my company has to offer.
 
