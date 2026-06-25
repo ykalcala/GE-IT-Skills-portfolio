@@ -8,4 +8,6 @@ The choices behind these projects is to evoke a feeling of calmness. This helps 
 
 
 # Projects
-![Early Bird Discount PubMat]
+This is one of the early projects I've worked on in my own company. Making a pubmat about a service we're offering.
+![Early Bird Discount PubMat](github.com/ykalcala/GE-IT-Skills-portfolio/blob/main/Visuals/Creative%20Post.png)
+
