@@ -18,4 +18,4 @@ Another project I've worked on is featuring the services that my company has to 
 
 The next project that i have worked on is the making of the presentation of a study that I was a part of.
 
-![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students]
+![AI Tools Usage and Percieved Levels of Critical Thinking of SHS STEM Students(https://github.com/ykalcala/GE-IT-Skills-portfolio/blob/6acdbdfc18c1366eb3ea9bf691e9659e2e54f247/Docs/AI%20TOOLS%20USAGE%20AND%20PERCEIVED%20LEVEL%20OF%20CRITICAL%20THINKING%20SKILLS%20OF%20SENIOR%20HIGH%20SCHOOL%20STEM%20STUDENTS%20(800%20x%202500%20px).pdf)
